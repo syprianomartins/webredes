@@ -1,5 +1,5 @@
 # WebRedes
-Site para encontrar contatos de estabelecimentos da cidade de Joaíma - MG.
+Site para disciplinas de Web 1 e Redes 2.
 
 1. Clone o repositório
 2. Rode o comando: "npm install"
