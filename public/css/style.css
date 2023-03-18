@@ -5,6 +5,8 @@ body{
     min-height: 100%;
     display: flex;
     flex-direction: column;
+    background: #61242498;
+
 }
 .container{
     flex: 1;
