@@ -10,7 +10,16 @@ body{
 }
 .container{
     flex: 1;
+
 }
+
+.card-details {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    
+}
+
 .tops{
      display: flex;
      justify-content: space-evenly;
@@ -23,6 +32,7 @@ body{
 .card .cards{
     box-shadow: 0 0 1em rgb(199, 198, 195);
     width: 15rem;
+    border-radius: 9px;
 }
 footer{
     display: flex;
